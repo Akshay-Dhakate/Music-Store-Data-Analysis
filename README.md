@@ -1,1 +1,1 @@
-# Music-Store-Data-Analysis
+# SQL-Project-Music-Store-Data-Analysis
